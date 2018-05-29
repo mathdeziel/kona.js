@@ -16,7 +16,7 @@ kona.js was developed with ease of use in mind for some particular use cases, su
 ## How to use
 
 Include kona.js on your page.
-```
+```javascript
 <script type="text/javascript" src="/path/to/kona.js"></script>
 ```
 
@@ -26,7 +26,7 @@ Note : *The key sequence must be an array and supports some english words.  You 
 
 Then, activate the registered sequence.
 
-```
+```javascript
 <script>
 
     var konami_easteregg = new Kona();
